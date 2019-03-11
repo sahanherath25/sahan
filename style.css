@@ -1,0 +1,30 @@
+img{
+	height:300px;
+	width: 350px;
+	justify-content:left;
+
+
+}
+
+p{
+	font-family:inherit;
+}
+
+td,th{
+	font-family:initial;
+	padding: 8px;
+	border:2px solid gray;
+	text-align: left;
+
+}
+
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+tr:nth-child(even){
+	background-color: #dddddd;
+}
+
+.
